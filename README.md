@@ -1,6 +1,6 @@
-# projekawalflutter
+# Simple Sinau Flutter
 
-A new Flutter project.
+This simple code for study about Flutter apps
 - tabBar
 - styling
 - row dan column
