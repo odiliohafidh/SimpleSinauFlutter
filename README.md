@@ -1,6 +1,11 @@
 # projekawalflutter
 
 A new Flutter project.
+- tabBar
+- styling
+- row dan column
+- card dan parsing
+- appbar
 
 ## Getting Started
 
